@@ -1,2 +1,7 @@
 # reverse_tcp_meterpreter_installer
-install meterpreter reverse_tcp  backdoor
+安装器 meterpreter reverse_tcp  backdoor
+
+自启动
+自删除
+生成器
+
